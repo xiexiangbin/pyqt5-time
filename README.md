@@ -1,5 +1,5 @@
 # pyqt5-time
-这是一个桌面时间的应用
+这是一个显示时间的桌面应用
 
 python main.py
 
